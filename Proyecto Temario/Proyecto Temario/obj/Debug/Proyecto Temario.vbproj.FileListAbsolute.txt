@@ -1,0 +1,17 @@
+c:\users\hp.desktop-4f23sah.002\documents\visual studio 2015\Projects\Proyecto Temario\Proyecto Temario\bin\Debug\Proyecto Temario.exe.config
+c:\users\hp.desktop-4f23sah.002\documents\visual studio 2015\Projects\Proyecto Temario\Proyecto Temario\bin\Debug\Proyecto Temario.exe
+c:\users\hp.desktop-4f23sah.002\documents\visual studio 2015\Projects\Proyecto Temario\Proyecto Temario\bin\Debug\Proyecto Temario.pdb
+c:\users\hp.desktop-4f23sah.002\documents\visual studio 2015\Projects\Proyecto Temario\Proyecto Temario\bin\Debug\Proyecto Temario.xml
+c:\users\hp.desktop-4f23sah.002\documents\visual studio 2015\Projects\Proyecto Temario\Proyecto Temario\obj\Debug\Proyecto Temario.vbprojResolveAssemblyReference.cache
+c:\users\hp.desktop-4f23sah.002\documents\visual studio 2015\Projects\Proyecto Temario\Proyecto Temario\obj\Debug\Proyecto_Temario.Form1.resources
+c:\users\hp.desktop-4f23sah.002\documents\visual studio 2015\Projects\Proyecto Temario\Proyecto Temario\obj\Debug\Proyecto_Temario.Resources.resources
+c:\users\hp.desktop-4f23sah.002\documents\visual studio 2015\Projects\Proyecto Temario\Proyecto Temario\obj\Debug\Proyecto Temario.vbproj.GenerateResource.Cache
+c:\users\hp.desktop-4f23sah.002\documents\visual studio 2015\Projects\Proyecto Temario\Proyecto Temario\obj\Debug\Proyecto Temario.exe
+c:\users\hp.desktop-4f23sah.002\documents\visual studio 2015\Projects\Proyecto Temario\Proyecto Temario\obj\Debug\Proyecto Temario.xml
+c:\users\hp.desktop-4f23sah.002\documents\visual studio 2015\Projects\Proyecto Temario\Proyecto Temario\obj\Debug\Proyecto Temario.pdb
+c:\users\hp.desktop-4f23sah.002\documents\visual studio 2015\Projects\Proyecto Temario\Proyecto Temario\bin\Debug\datos.dll
+c:\users\hp.desktop-4f23sah.002\documents\visual studio 2015\Projects\Proyecto Temario\Proyecto Temario\bin\Debug\entidad.dll
+c:\users\hp.desktop-4f23sah.002\documents\visual studio 2015\Projects\Proyecto Temario\Proyecto Temario\bin\Debug\datos.pdb
+c:\users\hp.desktop-4f23sah.002\documents\visual studio 2015\Projects\Proyecto Temario\Proyecto Temario\bin\Debug\datos.xml
+c:\users\hp.desktop-4f23sah.002\documents\visual studio 2015\Projects\Proyecto Temario\Proyecto Temario\bin\Debug\entidad.pdb
+c:\users\hp.desktop-4f23sah.002\documents\visual studio 2015\Projects\Proyecto Temario\Proyecto Temario\bin\Debug\entidad.xml
